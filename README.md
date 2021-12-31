@@ -1,4 +1,4 @@
-# covid-vax
+# covid-vaxtr
 
 Small program to display and check vaccination, test and recovery certificates
 issued according to the EU Covid certification standard.
@@ -32,12 +32,16 @@ Then feed the data into the main program:
 `./main.py -f your_data.txt`
 
 
-## Documentation
+## Background
+
+Here is some documentation from the EU concerning the data format.
 
 * <https://ec.europa.eu/health/sites/health/files/ehealth/docs/covid-certificate_json_specification_en.pdf>
 
 * <https://ec.europa.eu/health/sites/health/files/ehealth/docs/digital-green-certificates_v3_en.pdf>
 
 
+## Contributing
 
+Issues and pull requests welcome!
 
