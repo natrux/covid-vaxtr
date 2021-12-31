@@ -1,0 +1,9 @@
+[submodule "ehn-dcc-schema"]
+	path = ehn-dcc-schema
+	url = https://github.com/ehn-dcc-development/ehn-dcc-schema.git
+[submodule "pycose"]
+	path = pycose
+	url = https://github.com/TimothyClaeys/pycose
+[submodule "python-base45"]
+	path = python-base45
+	url = https://github.com/kirei/python-base45
